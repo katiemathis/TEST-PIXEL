@@ -63,6 +63,36 @@
     background-color: #c35e43;
 }
 
+.suit-brown.box {
+    background-color: #4c2f23;
+}
+
+.light-suit-brown.box{
+    background-color: #5e3a2a;
+}
+
+.dark-suit-brown.box {
+    background-color: #38261b;
+}
+
+.yellow.box {
+    background-color: #d9e462;
+}
+
+.tie.box {
+    background-color: #aa614c;
+}
+
+.dark-tie.box {
+    background-color: #a3523c;
+}
+
+.black.box {
+    background-color: black;
+}
+
+
+
 .white-space {
     min-height: 10px;
     background-color: white;

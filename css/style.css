@@ -1,6 +1,6 @@
 .box {
     background-color: #D5D6Da;
-    min-height: 50px;
+    min-height: 40px;
     padding: 0;
     color: white;
     text-align: center;
@@ -33,6 +33,34 @@
 
 .light-peach.box {
     background-color: #eaa373;
+}
+
+.dark-grey.box {
+    background-color: #3d3d3d;
+}
+
+.light-grey.box {
+    background-color: #545454;
+}
+
+.dark-peach.box {
+    background-color: #d97742;
+}
+
+.very-light-peach.box {
+    background-color: #f1c7a9;
+}
+
+.grey.box {
+    background-color: #1d2a34;
+}
+
+.extra-light-peach.box {
+    background-color: #e79c69;
+}
+
+.rust.box {
+    background-color: #c35e43;
 }
 
 .white-space {
